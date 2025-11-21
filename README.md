@@ -9,7 +9,7 @@ Includes browser logos, hover effects, and rounded UI corners.
 
 ## How to Use
 
-1. Download the `Browser_browser.exe from this repository.
+1. Download the `Browser_browser.exe` from this repository.
 2. double click the file to run the app.
 3. Click the download buttons to open official browser download pages.
 
@@ -21,3 +21,4 @@ Includes browser logos, hover effects, and rounded UI corners.
 ## Notes
 
 - If the `.exe` doesn’t run, Windows may block unsigned programs. Right-click → Run as administrator or scan with antivirus.
+
