@@ -5,7 +5,7 @@ Includes browser logos, hover effects, and rounded UI corners.
 
 ## Features
 
-- Quick access to official browser download links
+- Quick access to over 20 official browser download links
 
 ## How to Use
 
@@ -27,3 +27,4 @@ Includes browser logos, hover effects, and rounded UI corners.
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
