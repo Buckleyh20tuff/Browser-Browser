@@ -22,3 +22,8 @@ Includes browser logos, hover effects, and rounded UI corners.
 
 - If the `.exe` doesn’t run, Windows may block unsigned programs. Right-click → Run as administrator or scan with antivirus.
 
+## License
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
